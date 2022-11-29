@@ -103,7 +103,7 @@ namespace Responsi
             }
 
         }
-
+        
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (r == null)
